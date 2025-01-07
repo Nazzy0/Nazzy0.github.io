@@ -1,16 +1,11 @@
 {
-    "versionCode":22,
-    "versionName":"22.0.0",
+    "versionCode":24,
+    "versionName":"24.0.0",
     "contentText":"❏ Changelog:
 ●Some bugs fixed
-●Device ID Support Multiple ID
-●Expire Date Supports Exact Time
-●Block Package Name Support Multiple ID
-●Custom Setup switch to Custom Tweak
-●Url To Json
-●v2Ray Core Updated
+●WireGuard Added ✅
 ●Performance Improved 
 ●Clean & Optimize",
     "minSupport":23,
-    "url":"https://github.com/Nazzy0/24VPN/releases/download/v22.0.0/24VPN.apk"
+    "url":"https://github.com/Nazzy0/24VPN/releases/download/v24.0.0/24VPN.apk"
 }
